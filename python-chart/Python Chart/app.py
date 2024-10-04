@@ -26,4 +26,3 @@ setup()
 
 
 turtle_close()
-
